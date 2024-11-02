@@ -1,0 +1,8 @@
+20240923 本地单独备份MyApplication 6
+
+本地外储存于20240923不知备份状况
+
+云资源备份MyApplication 和MyApplication 6
+
+据测试软件本身可能问题，无法运行。
+根据内容测试，推算MyApplication 6为工程项目
